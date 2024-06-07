@@ -16,5 +16,10 @@ namespace Education
         {
             InitializeComponent();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            DataAdapter.Fill(ds1);
+        }
     }
 }
