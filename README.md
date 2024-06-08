@@ -1,3 +1,3 @@
 Лабораторная работа по БД 
 
-MS SQL Server + C# WinFowms
+MS SQL Server + C# WinForms
